@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "HK Notebook Set",
+    "description": "High-quality stationery for office use.",
+    "price": 5.99,
+    "image": "/images/notebook.jpg",
+    "category": "stationery",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "title": "USB Charger",
+    "description": "Fast-charging electrical gadget.",
+    "price": 12.99,
+    "image": "/images/charger.jpg",
+    "category": "electrical_gadgets",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "title": "Printing Service",
+    "description": "Cyber service for document printing.",
+    "price": 0.50,
+    "image": "/images/printing.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  }
+]
