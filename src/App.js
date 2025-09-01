@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate, Outlet } from "react-router-dom";
-//import axios from 'axios';
-//import jwt_decode from 'jwt-decode';
+import axios from 'axios';
+import jwt_decode from 'jwt-decode';
 
 import AddProduct from './components/AddProduct';
 import Cart from './components/Cart';

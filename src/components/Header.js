@@ -10,7 +10,7 @@ function Header() {
     <nav className="navbar" role="navigation" aria-label="main navigation">
       <div className="navbar-brand">
         <Link className="navbar-item" to="/">
-          <img src="/hk-logo.png" alt="HK Logo" /> {/* Add your logo */}
+          <img src="https://i.postimg.cc/h4QTQDhH/hk.jpg" /> {/* Add your logo */}
           HK Store
         </Link>
       </div>
