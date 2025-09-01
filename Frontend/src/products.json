@@ -1,0 +1,490 @@
+[
+  {
+    "id": 1,
+    "title": "HK Notebook Set",
+    "description": "High-quality stationery for office use.",
+    "price": 359,
+    "image": "https://imgs.search.brave.com/Jh5t50iizF_FBAjUcjofEhooCtRiF2mzmfWgDuQ_isY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGV1Y2h0dHVybTE5/MTcudXMvbWVkaWEv/Y2F0ZWdvcnkvNDgw/eDQ4MC84MDEzNjEv/YWNjb3JkaW9uLW5v/dGVib29rLW1vbm9j/bGUtYnktbGV1Y2h0/dHVybTE5MTcuanBn",
+    "category": "stationery",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "title": "USB Charger",
+    "description": "Fast-charging electrical gadget.",
+    "price": 299,
+    "image": "https://imgs.search.brave.com/u44pDJRxk8TUZDwrim9SfrgV8qqgbngfXL3nIM5-aRo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFPT0F4MnlFS0wu/anBn",
+    "category": "electrical_gadgets",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "title": "Printing Service",
+    "description": "Cyber service for document printing.",
+    "price": 20,
+    "image": "https://imgs.search.brave.com/7YreqiJPd9w4u6S_o1mJvxeKMPH-82AcxOn6387WwTA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcmludGVyLWNv/bXB1dGVyLW9mZmlj/ZS10YWJsZV85MzY3/NS0zNzk2LmpwZz9z/ZW10PWFpc19oeWJy/aWQmdz03NDAmcT04/MA",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 4,
+    "title": "HDD",
+    "description": "Hard disk drive for additional storage.",
+    "price": 9999,
+    "image": "https://imgs.search.brave.com/Lw0UIPyLmluPu_ZHE4GWpTKjCi6WbUEGB2KjIPk2QRk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9nemhs/cy5hdC9vY3RyaS9t/ZWRpdW1fcmV1bW9u/dF9TaHV0dGVyc3Rv/Y2tfYjdkZWQyMWQ5/MC5qcGc",
+    "category": "electrical_gadgets",
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "title": "SSD ",
+    "description": "Solid state drive for faster performance.",
+    "price": 6999,
+    "image": "https://imgs.search.brave.com/-JqI5WByuDByQQDh35dMa7d5gHfgXA8tk3YPjQy9LEI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ydWtt/aW5pbTIuZmxpeGNh/cnQuY29tL2ltYWdl/LzYxMi82MTIveGlm/MHEvaW50ZXJuYWwt/aGFyZC1kcml2ZS9w/LzIvNy8tb3JpZ2lu/YWwtaW1haGV4NzNy/YzViamFyYy5qcGVn/P3E9NzA",
+    "category": "electrical_gadgets",
+    "stock": 30
+  },
+  {
+    "id": 6,
+    "title": "Wireless Router",
+    "description": "Device for home or office WiFi connectivity.",
+    "price": 2899,
+    "image": "https://imgs.search.brave.com/XiM5dZuYQjwOFJ8VclNHQKBCcUt0zfIJk8w9Sgx9AKs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzExLzEyLzIyLzU3/LzM2MF9GXzExMTIy/MjU3NThfekZTZ0hh/VU1MYWFKU296R3NT/a1BmcFJTQjRENVc1/aGwuanBn",
+    "category": "electrical_gadgets",
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "title": "Wireless Earpods",
+    "description": "Bluetooth earbuds for audio playback.",
+    "price": 2789,
+    "image": "https://imgs.search.brave.com/rQuL0Rd7QXK5GAXqPcDlymctiqXBK-EuIOoULsjtycE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by93aXJlbGVzcy1l/YXJidWRzLXNtYXJ0/cGhvbmVfNjMwOTct/MzQ1OS5qcGc_c2Vt/dD1haXNfaHlicmlk/Jnc9NzQwJnE9ODA",
+    "category": "electrical_gadgets",
+    "stock": 50
+  },
+  {
+    "id": 8,
+    "title": "OTG Cable",
+    "description": "USB on-the-go adapter for mobile devices.",
+    "price": 279,
+    "image": "https://imgs.search.brave.com/hC6d7cbtjQ97vA-mFNrs_342xvIC9MXE6ICjiJrG2V0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjE1djBJS2NBbUwu/anBn",
+    "category": "electrical_gadgets",
+    "stock": 100
+  },
+  {
+    "id": 9,
+    "title": "Computer Keyboard",
+    "description": "Wired keyboard for typing input.",
+    "price": 600,
+    "image": "https://imgs.search.brave.com/UKwetJXKnqpQ-neOwdbN23qjyFZztQ9NUmVTT14Sj8o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/MzIwNzkwMDMxMTAt/ZDY5NDkwODUwMGRh/P2ZtPWpwZyZxPTYw/Jnc9MzAwMCZpeGxp/Yj1yYi00LjEuMCZp/eGlkPU0zd3hNakEz/ZkRCOE1IeHpaV0Z5/WTJoOE5ueDhZMjl0/Y0hWMFpYSWxNakJy/WlhsaWIyRnlaSHhs/Ym53d2ZId3dmSHg4/TUE9PQ",
+    "category": "electrical_gadgets",
+    "stock": 40
+  },
+  {
+    "id": 10,
+    "title": "Extension Cord",
+    "description": "Power extension for multiple devices.",
+    "price": 400,
+    "image": "https://imgs.search.brave.com/qkPPW3JID3WD2AzXnZfstKfYNlHyWViumTgbP2DZrB0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI3L0V4dGVuc2lv/bmNvcmQuanBn",
+    "category": "electrical_gadgets",
+    "stock": 60
+  },
+  {
+    "id": 11,
+    "title": "Fiber Optic Cable",
+    "description": "High-speed data transmission cable.",
+    "price": 3900,
+    "image": "https://imgs.search.brave.com/8AkCSLUI5Qs9_9UdNZUsSTZVoJ7f-j7j6vSQp9hEpE0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzEwLzQ1LzIwLzky/LzM2MF9GXzEwNDUy/MDkyOTFfSVVLV1RP/NEZkQk5GaXcwbXRy/ZzRiZVJIN01UN2Fz/QksuanBn",
+    "category": "electrical_gadgets",
+    "stock": 25
+  },
+  {
+    "id": 12,
+    "title": "MiFi Device",
+    "description": "Portable WiFi hotspot for mobile internet.",
+    "price": 2500,
+    "image": "https://imgs.search.brave.com/Ywp_i-zwaPJxdPhXW2tc0bmBXeHYLPiIi6jGCvyOAck/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFZZU5lcmliOEwu/anBn",
+    "category": "electrical_gadgets",
+    "stock": 10
+  },
+  {
+    "id": 13,
+    "title": "Over-Ear Headphones",
+    "description": "Wired headphones for immersive sound.",
+    "price": 3499,
+    "image": "https://imgs.search.brave.com/b8yxRkwy1UOcuBG-h2MlYiioNlgKqbRWU-85SkJW7f0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFnNGYtMXZBaEwu/anBn",
+    "category": "electrical_gadgets",
+    "stock": 35
+  },
+  {
+    "id": 14,
+    "title": "SD Card",
+    "description": "Memory card for storage expansion.",
+    "price": 999,
+    "image": "https://imgs.search.brave.com/LyH-1JaxR-gw5cAGOqK-E5z83JfEXJICSBygeLdx-Eo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS12/ZWN0b3IvbWVtb3J5/LWNhcmQtc2QtbWlj/cm8taXNvbGF0ZWQt/MjYwbnctMTg0MzU4/MTU1MC5qcGc",
+    "category": "electrical_gadgets",
+    "stock": 80
+  },
+  {
+    "id": 15,
+    "title": "Laptop Bag",
+    "description": "Protective carrying bag for laptops.",
+    "price": 1909,
+    "image": "https://imgs.search.brave.com/mzpik9xUo8QjeMIkbBaY6UBM5p_wf7azeTAZdCgoLBY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFJMklNN2dzeUwu/anBn",
+    "category": "electrical_gadgets",
+    "stock": 20
+  },
+  {
+    "id": 16,
+    "title": "Computer Mouse",
+    "description": "Wired mouse for precise control.",
+    "price": 499,
+    "image": "https://imgs.search.brave.com/0q6yndrWqjvxI0Ta6mcYu1X6oyNLJFhT3qNGQ9uUGgg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzUwLzM2Lzcw/LzM2MF9GXzUwMzY3/MDMzX2tQeGVvN3Uz/aEdMQzVMeDBzZnRu/b0lDQnpHNzlxZm9S/LmpwZw",
+    "category": "electrical_gadgets",
+    "stock": 50
+  },
+  {
+    "id": 17,
+    "title": "HK Laptop",
+    "description": "Entry-level laptop for everyday use.",
+    "price": 38500,
+    "image": "https://imgs.search.brave.com/E_7jtLZD_GMd23KPI5A2nzqcim9pxrvXZJNACGomjjc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzQxLzA1LzI5/LzM2MF9GXzQ0MTA1/MjkzM19EOUNTYUlL/T0tUQ0U0TmlUZ3dK/YzZicjl1Wm9CT0Uw/Sy5qcGc",
+    "category": "electrical_gadgets",
+    "stock": 5
+  },
+  {
+    "id": 18,
+    "title": "In-Ear Earphones",
+    "description": "Wired earphones for music and calls.",
+    "price": 600,
+    "image": "https://imgs.search.brave.com/9UIYvcZhkNjLr8TqPbY8bnlTZqfS1ooxPuleamoT7jA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20vYW5naW50YS9h/bmdpbnRhMTYxMi9h/bmdpbnRhMTYxMjAw/MzI0LzY4MDQ5OTgy/LWVhcmJ1ZHMtb3It/ZWFycGhvbmVzLXRv/cC12aWV3LW9uLXdv/b2Rlbi1iYWNrZ3Jv/dW5kLmpwZz92ZXI9/Ng",
+    "category": "electrical_gadgets",
+    "stock": 60
+  },
+  {
+    "id": 19,
+    "title": "Bluetooth Speaker",
+    "description": "Portable wireless speaker.",
+    "price": 1990,
+    "image": "https://imgs.search.brave.com/Uy6SkH-atCaCw3Rc77ROoVJ09YRnJLWlKifkCyTRnHs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L1lm/R1RhanhWVWNSUGpt/RllWclJ2d2kuanBn",
+    "category": "electrical_gadgets",
+    "stock": 30
+  },
+  {
+    "id": 20,
+    "title": "RAM",
+    "description": "Memory module for computer upgrades.",
+    "price": 2300,
+    "image": "https://imgs.search.brave.com/TY7XSZwki4rxUI2cbpoXfAuKd79XyxExsO29rxdBhHc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91cy4x/MjNyZi5jb20vNDUw/d20vc2luZW5raXkv/c2luZW5raXkyMzAx/L3NpbmVua2l5MjMw/MTAxNDAwLzE5Njc2/NzY1OS1tYWNyby1j/bG9zZS11cC1vZi1j/b21wdXRlci1yYW0t/Y2hpcC1hbmQtbW90/aGVyYm9hcmQtb24t/ZGFyay1iYWNrZ3Jv/dW5kLmpwZz92ZXI9/Ng",
+    "category": "electrical_gadgets",
+    "stock": 25
+  },
+  {
+    "id": 21,
+    "title": "Photocopying Service",
+    "description": "Black and white or color document copying (per page).",
+    "price": 5,
+    "image": "/images/photocopying.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 22,
+    "title": "KRA PIN Retrieval",
+    "description": "Assistance with retrieving Kenya Revenue Authority PIN.",
+    "price": 100,
+    "image": "/images/kra-pin.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 23,
+    "title": "KRA Return Filing",
+    "description": "Help with filing KRA tax returns online.",
+    "price": 499,
+    "image": "/images/kra-return.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 24,
+    "title": "Passport Photos",
+    "description": "Professional passport-sized photos.",
+    "price": 50,
+    "image": "/images/passport-photos.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 25,
+    "title": "Passport/Visa Application",
+    "description": "Guidance and form filling for passport or visa applications.",
+    "price": 899,
+    "image": "https://imgs.search.brave.com/ZENu_zKtL_2rB-Z9eC4MtGYv9evt6KroIHL0T-y5qBM/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93d3cu/dXNwcy5jb20vYXNz/ZXRzL2ltYWdlcy9p/bnRlcm5hdGlvbmFs/L3Bhc3Nwb3J0LWhl/cm8tbW9iaWxlLmpw/Zw",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 26,
+    "title": "Typing/Type Setting",
+    "description": "Document typing and formatting services.",
+    "price": 50,
+    "image": "/images/typing.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 27,
+    "title": "Business Registration",
+    "description": "Assistance with registering a business online.",
+    "price": 799,
+    "image": "/images/business-registration.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 28,
+    "title": "HELB Application",
+    "description": "Help with Higher Education Loans Board applications.",
+    "price": 499,
+    "image": "/images/helb.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 29,
+    "title": "Green Card Application",
+    "description": "Support for green card or related applications.",
+    "price": 499,
+    "image": "/images/greencard.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 30,
+    "title": "Lamination and Binding",
+    "description": "Document lamination and binding services.",
+    "price": 499,
+    "image": "/images/lamination-binding.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 31,
+    "title": "Driving Licence Renewal",
+    "description": "Online renewal of driving licenses.",
+    "price": 299,
+    "image": "/images/driving-licence.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 32,
+    "title": "Scanning Service",
+    "description": "Document scanning to digital formats (per page).",
+    "price": 20,
+    "image": "/images/scanning.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 33,
+    "title": "M-Pesa Statement",
+    "description": "Printing M-Pesa transaction statements.",
+    "price": 399,
+    "image": "/images/m-pesa-statement.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 34,
+    "title": "Graphics Design",
+    "description": "Basic graphic design services.",
+    "price": 599,
+    "image": "https://imgs.search.brave.com/DbEeAVaMafuzHsJzkAjqi1PCgLsqUghiJTQDPiRHKL4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20vRUFHcEdk/STdGTGsvMy8wLzE2/MDB3L2NhbnZhLWJs/dWUteWVsbG93LXdo/aXRlLWlsbHVzdHJh/dGVkLW1vZGVybi1n/ZW9tZXRyaWMtc3Rl/cHMtdG8tYmVjb21p/bmctYS1ncmFwaGlj/LWRlc2lnbmVyLXBy/ZXNlbnRhdGlvbi1M/MEJ2dS1WZmNISS5q/cGc",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 35,
+    "title": "Browsing Service",
+    "description": "Internet browsing per hour.",
+    "price": 1,
+    "image": "/images/browsing.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 36,
+    "title": "Skype Service",
+    "description": "Assisted Skype calls or setup.",
+    "price": 3,
+    "image": "/images/skype.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 37,
+    "title": "PDL/PSV Badges",
+    "description": "Printing PDL/PSV badges.",
+    "price": 299,
+    "image": "/images/pdl-psv-badges.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 38,
+    "title": "eCitizen Services",
+    "description": "Assistance with eCitizen portal services.",
+    "price": 399,
+    "image": "/images/ecitizen.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 39,
+    "title": "Certificate of Good Conduct",
+    "description": "Application support for certificate of good conduct.",
+    "price": 249,
+    "image": "/images/certificate-good-conduct.jpg",
+    "category": "cyber_services",
+    "stock": null,
+    "bookable": true
+  },
+  {
+    "id": 40,
+    "title": "Ream Papers (A4)",
+    "description": "Standard A4 ream of paper (500 sheets).",
+    "price": 700,
+    "image": "https://imgs.search.brave.com/Gq9GaHAhAmSMnp_Lsd_QLQqEP6Zu2HGM3uW8WCe6Tk0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9rZS5q/dW1pYS5pcy91bnNh/ZmUvZml0LWluLzUw/MHg1MDAvZmlsdGVy/czpmaWxsKHdoaXRl/KS9wcm9kdWN0LzEw/LzY3NzIwOC8xLmpw/Zw",
+    "category": "stationery",
+    "stock": 100
+  },
+  {
+    "id": 41,
+    "title": "Printer Inks",
+    "description": "Ink cartridge for printers.",
+    "price": 200,
+    "image": "https://imgs.search.brave.com/yd6azCihHF6C6-YSuv6n4jCN5joqVuXcxvx8ZItlSNg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29tcGFuZHNhdmUu/Y29tL2Jsb2cvaW1h/Z2VzL2RpZmZlcmVu/dC10eXBlcy1vZi1p/bmstZm9yLXByaW50/ZXJzLnBuZw",
+    "category": "stationery",
+    "stock": 50
+  },
+  {
+    "id": 42,
+    "title": "Envelopes",
+    "description": "Standard envelopes for mailing (pack of 10).",
+    "price": 250,
+    "image": "https://imgs.search.brave.com/837rTJwOjXZidXNAkhKiaoCaxIgQLsINNPEhQT1qDP4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDYw/MDY3NTI5L3Bob3Rv/L2JsYW5rLWJyb3du/LWVudmVsb3Blcy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/VjdsN3RVaDRrRk1P/UDVfWjFXMGJwNXIx/NjJudmY2MVFNX3ln/YkJTbkl2cz0",
+    "category": "stationery",
+    "stock": 200
+  },
+  {
+    "id": 43,
+    "title": "Receipt Books",
+    "description": "A6 receipt book with carbon copies.",
+    "price": 2800,
+    "image": "https://imgs.search.brave.com/o7mcPdVBmDnNounIG8aOH3AL39aetuwb6Jjt78GH2aA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9waG90/b3p1cmkuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzA2/L3JlY2VpcHQucG5n",
+    "category": "stationery",
+    "stock": 80
+  },
+  {
+    "id": 44,
+    "title": "Invoices",
+    "description": "Pre-printed invoice pads.",
+    "price": 2800,
+    "image": "https://imgs.search.brave.com/5u8mJFXtOmSREk7pTsKm0g_WUyX3bk6MA6BGGAYqX6s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9pbnZv/aWNlLXBhaWQtc3Rh/bXAtaW52b2ljZS1w/YWlkLXN0YW1wLXRo/cmVlLWludm9pY2Vz/LXBhaWQtc3RhbXBl/ZC10aGVtLWFsbC1k/ZXRhaWxzLWltYWdp/bmFyeS0xMDk1NzM1/ODkuanBn",
+    "category": "stationery",
+    "stock": 60
+  },
+  {
+    "id": 45,
+    "title": "Portfolio",
+    "description": "Document portfolio folders.",
+    "price": 200,
+    "image": "https://imgs.search.brave.com/GiE1vjkh9awzSGise1uPwMzZRnyaIGN7NYGbgNbwcQc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RzLzQwNC9h/MmY4ODIyMjQ2MzI0/NzMuWTNKdmNDd3hN/emd3TERFd09EQXNN/amN3TERBLmpwZw",
+    "category": "stationery",
+    "stock": 40
+  },
+  {
+    "id": 46,
+    "title": "Scrap Book",
+    "description": "Blank scrapbook for notes or crafts.",
+    "price": 250,
+    "image": "https://imgs.search.brave.com/F7dCFSiV9djjVKdfpvDydvGVlpFCRlhRyowAn02D4EE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/bG9va3MtbGlrZS1p/dHMtbW9yZS10aGFu/LWp1c3Qtc2NyYXBi/b29rcy1oZXJlLW9k/LWktbG92ZS10by12/MC02djAxMnkxNHAy/amQxLmpwZWc_d2lk/dGg9NjQwJmNyb3A9/c21hcnQmYXV0bz13/ZWJwJnM9MWIwMzRm/MzYwNTBjM2FkNGEw/OTJiMGY4ZTQ5ODdl/NmVmZWM4ODE0MA",
+    "category": "stationery",
+    "stock": 30
+  },
+  {
+    "id": 47,
+    "title": "Binding Tapes",
+    "description": "Tapes for document binding (roll).",
+    "price": 350,
+    "image": "https://imgs.search.brave.com/QXvR12gH7oA1OVpNBqWr76ATRkn137FTXXe5VBsgYvM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2hyb21hbGFiZWwu/Y29tL2Nkbi9zaG9w/L3Byb2R1Y3RzLzEt/MS0yLWluY2gtQm9v/a2d1YXJkLVByZW1p/dW0tQ2xvdGgtQm9v/ay1SZXBhaXItVGFw/ZV82MDB4LmpwZz92/PTE3Mzc1Njg5NTI",
+    "category": "stationery",
+    "stock": 100
+  },
+  {
+    "id": 48,
+    "title": "Lamination Pouches",
+    "description": "Pouches for lamination (pack of 50).",
+    "price": 999,
+    "image": "https://imgs.search.brave.com/y2G_Tox0GOXHc9BTE8x8ybWmh_cETN8OHCyoFNgslnQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy1wcHcz/c3Z0M3BoL2ltYWdl/cy9zdGVuY2lsLzYw/OHg2MDgvcHJvZHVj/dHMvMTU5LzUzMi9s/YW1pbmF0aW5nX3Bv/dWNoX185MDM2Mi4x/NzMyNjMwMTAwLmpw/Zz9jPTE",
+    "category": "stationery",
+    "stock": 50
+  },
+  {
+    "id": 49,
+    "title": "4x6 Papers",
+    "description": "4x6 photo papers (pack of 100).",
+    "price": 249,
+    "image": "https://imgs.search.brave.com/zAiCd4gP9MIR-3x4cCnj8v8Jb_zoRi0IFNthGwiOBE8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzFsR3hXLWJyc0wu/anBn",
+    "category": "stationery",
+    "stock": 70
+  },
+  {
+    "id": 50,
+    "title": "Photo Papers",
+    "description": "Glossy photo papers (A4 pack).",
+    "price": 200,
+    "image": "https://imgs.search.brave.com/xRByj9A9YVmHrWQIn0MnWdqB3V7hfUmiuxR0215f5AY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTY4/NzE0Nzc2L3Bob3Rv/L21hZ2F6aW5lcy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/S0NQQVhqQlcxcmhB/UElUVFNwX3UxZE9h/dEJXZ09MNHh3akNh/dlc3bTVBQT0",
+    "category": "stationery",
+    "stock": 40
+  },
+  {
+    "id": 51,
+    "title": "Sticker Paper",
+    "description": "Adhesive sticker sheets (A4 pack).",
+    "price": 500,
+    "image": "https://imgs.search.brave.com/9ONcFjZSR8bKBQqueVKSaUBAevXOKGDbYSGk2xUMF4s/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFSenNHbE10Mkwu/anBn",
+    "category": "stationery",
+    "stock": 60
+  },
+  {
+    "id": 52,
+    "title": "Glossy Papers",
+    "description": "High-gloss papers for printing (A4 ream).",
+    "price": 400,
+    "image": "https://imgs.search.brave.com/ireaNx-cJ4YM0ajbw2Hr8DAarOYjb7eB0buDLrKfWS0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjF2K0wrOXJMUUwu/anBn",
+    "category": "stationery",
+    "stock": 30
+  }
+]
