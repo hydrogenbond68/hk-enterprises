@@ -149,6 +149,10 @@ export default class App extends Component {
                   <AddProduct />
                 </PrivateRoute>
               } />
+              <Route path="/admin" element={
+  <PrivateRoute isAdmin={true}>
+    <AdminDashboard />
+  </PrivateRoute>
             </Route>
           </Routes>
         </Router>
