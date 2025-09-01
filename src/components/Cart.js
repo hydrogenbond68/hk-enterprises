@@ -11,7 +11,7 @@ function Cart() {
       <h1 className="title">Shopping Cart</h1>
       {cartItems.map(item => (
         <div key={item.id} className="box">
-          <p>{item.title} - ${item.price} x {item.amount}</p>
+          <p>{item.title} - Ksh{item.price} x {item.amount}</p>
           <button className="button is-danger" onClick={() => removeFromCart(item.id)}>Remove</button>
         </div>
       ))}
