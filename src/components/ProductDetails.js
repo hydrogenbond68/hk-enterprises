@@ -22,7 +22,7 @@ function ProductDetails() {
       <div className="column">
         <h1 className="title">{product.title}</h1>
         <p>{product.description}</p>
-        <p className="subtitle">${product.price}</p>
+        <p className="subtitle">Ksh{product.price}</p>
         {product.bookable ? (
           <button className="button is-primary">Book Service</button> // Extend with calendar
         ) : (

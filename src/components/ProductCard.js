@@ -21,7 +21,7 @@ function ProductCard({ product }) {
         <div className="media">
           <div className="media-content">
             <p className="title is-4">{product.title}</p>
-            <p className="subtitle is-6">${product.price}</p>
+            <p className="subtitle is-6">Ksh{product.price}</p>
             <p>{product.description.substring(0, 100)}...</p>
             <span className="tag">{product.category}</span>
           </div>
