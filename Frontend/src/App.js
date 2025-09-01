@@ -11,6 +11,8 @@ import ProductDetails from './components/ProductDetails';
 import HomePage from './pages/HomePage';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import AdminDashboard from './components/AdminDashboard';
+import Checkout from './components/Checkout';
 
 import Context from "./Context";
 import productsData from './products.json';
@@ -137,22 +139,34 @@ export default class App extends Component {
           <Routes>
             <Route element={<MainLayout />}>
               <Route path="/" element={<HomePage />} />
+
               <Route path="/products">
                 <Route index element={<ProductList />} /> {/* All products */}
                 <Route path=":category" element={<ProductList />} /> {/* Filtered by category */}
               </Route>
+
               <Route path="/product/:id" element={<ProductDetails />} />
               <Route path="/cart" element={<Cart />} />
+              <Route path="/checkout" element={<Checkout />} />
               <Route path="/login" element={<Login />} />
-              <Route path="/admin" element={
-                <PrivateRoute isAdmin={true}>
-                  <AddProduct />
-                </PrivateRoute>
-              } />
-              <Route path="/admin" element={
-  <PrivateRoute isAdmin={true}>
-    <AdminDashboard />
-  </PrivateRoute>
+
+              {/* Admin-only routes */}
+              <Route
+                path="/admin/dashboard"
+                element={
+                  <PrivateRoute isAdmin={true}>
+                    <AdminDashboard />
+                  </PrivateRoute>
+                }
+              />
+              <Route
+                path="/admin/add-product"
+                element={
+                  <PrivateRoute isAdmin={true}>
+                    <AddProduct />
+                  </PrivateRoute>
+                }
+              />
             </Route>
           </Routes>
         </Router>
