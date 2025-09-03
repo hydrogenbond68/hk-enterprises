@@ -11,7 +11,6 @@ function Header() {
       <div className="navbar-brand">
         <Link className="navbar-item" to="/">
           <img src="https://i.postimg.cc/h4QTQDhH/hk.jpg" /> {/* Add your logo */}
-          HK Store
         </Link>
       </div>
       <div className="navbar-menu">
@@ -35,5 +34,6 @@ function Header() {
     </nav>
   );
 }
+
 
 export default Header;
